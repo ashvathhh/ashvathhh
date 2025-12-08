@@ -1,65 +1,105 @@
-<!-- Banner -->
+<!-- ===== CUSTOM BANNER ===== -->
 <p align="center">
-  <img src="https://i.imgur.com/MHE3y7l.png" width="100%" />
+  <img src="https://i.imgur.com/xeLhRQI.png" width="100%" alt="Ashvath Banner">
 </p>
 
-# 👋 Hi, I'm Ashvath!
-
-I'm an aspiring AI & Software Engineer passionate about building intelligent systems that solve real-world problems.  
-Currently learning: Search Algorithms, AI Ethics, YOLOv8, and building mobile-first AI applications.
-
-🎓 **Incoming Graduate Student at Northeastern University**  
-🔍 **Actively seeking internships (Summer 2025)**  
-
----
-
-## 🧠 Skills & Technologies
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-
-### **Frameworks & Tools**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 **YOLOv8 Human Detection in Low-Visibility Environments**
-AI model that detects humans in fire/smoke conditions without relying on thermal cameras — designed for emergency rescue scenarios.  
-➡️ *Repository link coming soon*
-
-### 🔹 **Flutter App for Real-Time Emergency Detection**
-Mobile app companion to the YOLOv8 model showing live detection bounding boxes & alerts.  
-➡️ *Repository link coming soon*
-
-### 🔹 Additional Academic Projects
-- AI Search Algorithms (DFS, BFS, UCS, IDS)
-- Grid-world MDP & Q-Learning simulations  
-- Algorithmic Problem Solving & Data Structures
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">🚀 Ashvath — AI & Software Engineer</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashvathhh&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvathhh&layout=compact&theme=tokyonight" height="160"/>
+  Building intelligent systems that save lives, solve real-world problems, and push the boundary between software and perception.<br>
+  <strong>AI • Computer Vision • Mobile Development • Search Algorithms</strong>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-📧 Email — your email here  
-🔗 LinkedIn — your LinkedIn URL here  
+## 🌟 About Me
+
+- 🔥 Passionate about **AI for emergency response & human safety**
+- 📱 Building **mobile-first intelligent systems** using YOLOv8 + Flutter  
+- 🤖 Experienced with **search algorithms, reinforcement learning, and ML pipelines**
+- 🎓 **Incoming Northeastern University Grad Student**
+- 🎯 Actively seeking **Summer 2025 Software / AI Internships**
 
 ---
 
-### ⭐ *Thanks for visiting! Feel free to explore my repositories.*
+## 🛠️ Tech Arsenal  
+A clean, badge-free, **minimal aesthetic** list (more modern than the usual GitHub clutter).
+
+### **Core Languages**
+- Python  
+- Dart (Flutter)  
+- Java  
+- C++  
+
+### **AI / ML Toolkit**
+- YOLOv8  
+- PyTorch  
+- OpenCV  
+- NumPy, SciPy, Pandas  
+
+### **Software & Tools**
+- Flutter  
+- VS Code  
+- Git & GitHub  
+- Jupyter  
+- Figma (UI/UX mockups)
+
+---
+
+## 🚨 Signature Projects (My Best Work)
+
+### 🔹 **Human Detection in Fire/Smoke (YOLOv8)**
+A vision system that detects humans in low-visibility emergency scenarios **without thermal cameras**.  
+Designed for first responders & rescue robotics.  
+> _Vision + safety + real-world impact_
+
+🧠 **Core features:**  
+- Custom dataset for smoke/fire conditions  
+- Bounding box tracking in low-light  
+- High recall on partially occluded humans  
+
+➡️ *(Repo uploading soon — ask me for details)*  
+
+---
+
+### 🔹 **Real-Time Emergency Detection App (Flutter + AI Backend)**
+A mobile app connected to the YOLO model, showing real-time detection overlays.  
+> _Lightweight, fast, clean UI optimized for responders._
+
+🧩 **Highlights:**  
+- Real-time inference display  
+- Mobile-optimized UI  
+- Works with on-device or remote inference  
+
+➡️ *(Repo uploading soon)*  
+
+---
+
+### 🔹 **AI Search Algorithms & MDP Simulations**
+Implementations of:  
+- DFS / BFS / UCS / IDS  
+- Q-learning  
+- Grid-world simulations  
+- Custom heuristics and optimization logic  
+
+---
+
+## 📈 GitHub Performance & Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashvathhh&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashvathhh&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Find Me Online
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR@EMAIL.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>“Engineering intelligence that matters — one project at a time.”</i></p>
