@@ -2,7 +2,7 @@
 
 I'm a software developer interested in machine learning, computer vision, and building practical tools that solve real problems. A lot of my recent work focuses on human detection in low-visibility environments and connecting AI models to mobile apps.
 
-I'm currently an incoming graduate student at Northeastern University and looking for internship opportunities for Summer 2025.
+I'm currently a graduate student at Northeastern University and looking for internship opportunities for Summer 2025.
 
 ---
 
