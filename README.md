@@ -43,7 +43,7 @@ Developed end-to-end web applications using full stack technologies.
 
 Email: cheppash2@gmail.com  
 LinkedIn: www.linkedin.com/in/ashvath-cheppalli-0ab28a249
-Portfolio: [ashvathhh.github.io/Profile](https://ashvathhh.github.io/Profile/)
+Portfolio: https://ashvathhh.github.io/Profile/
 
 
 Thanks for visiting — feel free to look through my work.
