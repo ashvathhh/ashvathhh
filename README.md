@@ -10,33 +10,41 @@ Boston, MA
 
 ## What I'm working on
 
-- YOLOv8-based human detection system designed for smoke/fire environments  
-- Flutter mobile app that displays real-time detection output  
-- Implementing AI search algorithms (DFS, BFS, UCS, IDS)  
-- Reinforcement learning and MDP environments  
+- Geospatial building orientation detection system processing 11M+ building footprints
+- YOLOv8-based human detection system for fire evacuation scenarios
+- Implementing AI search algorithms and reinforcement learning environments
 
 ---
 
 ## Skills
 
-**Languages:** Python, Java, C++, Dart  
-**ML/AI:** PyTorch, TensorFlow, YOLOv8, OpenCV  
-**Tools:** Flutter, Git, VS Code  
-**Interests:** Computer vision, applied ML, mobile development, AI safety/ethics
+**Languages:** Python, JavaScript, HTML, CSS, R  
+**ML/AI:** PyTorch, Keras, TensorFlow, YOLOv8  
+**Tools:** Pandas, Shapely, Git  
+**Databases:** MySQL
 
 ---
 
 ## Selected Projects
 
-### Human Detection in Low Visibility (YOLOv8)
-Computer vision model trained to identify humans in smoky or low-light conditions.  
-**Focus areas:** data collection, custom training, model evaluation, real-world constraints
+### Geospatial Building Orientation Detection System
+Built Python pipeline using Shapely and R-tree indexing to process 11M+ building footprints with 95% coverage for CA/TX addresses. Achieved 95% memory reduction and sub-second query times through spatial indexing.
 
-### Emergency Detection Mobile App (Flutter)
-Companion app that runs alongside the detection model and shows bounding boxes, alerts, and detection confidence
+### Intelligent Human Detection System For Fire Evacuation (YOLOv8)
+Fine-tuned YOLOv8 on custom thermal imaging dataset achieving 89.6% mAP50 and 86.7% precision for human detection in low-visibility fire scenarios. Developed Flutter mobile application with video processing pipeline.
 
-### Search Algorithms & MDP Simulations
-Implementations of common search strategies and Q-learning experiments as part of my AI coursework
+### AI-Optimized Energy Consumption Forecasting System
+Developed ML regression model on 1M+ consumption records achieving 0.038 kWh MAE (95% improvement) for real-time energy forecasting and grid optimization.
+
+---
+
+## Experience
+
+**AI Intern** @ Skillible (July 2024 – August 2024)  
+Conducted analysis of bias mitigation strategies in Generative AI systems and developed advanced prompt engineering techniques for LLMs.
+
+**Web Development Intern** @ Anugraha Systems (Jan 2023)  
+Developed end-to-end web applications using full stack technologies.
 
 ---
 
