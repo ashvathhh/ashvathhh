@@ -2,10 +2,6 @@
 
 I'm a software developer interested in machine learning, computer vision, and building practical tools that solve real problems. A lot of my recent work focuses on human detection in low-visibility environments and connecting AI models to mobile apps.
 
-Graduate student at Northeastern University (MS in AI)  
-Looking for Summer 2025 internships  
-Boston, MA
-
 ---
 
 ## What I'm working on
@@ -14,7 +10,6 @@ Boston, MA
 - YOLOv8-based human detection system for fire evacuation scenarios
 - Implementing AI search algorithms and reinforcement learning environments
 
----
 
 ## Skills
 
@@ -23,7 +18,6 @@ Boston, MA
 **Tools:** Pandas, Shapely, Git  
 **Databases:** MySQL
 
----
 
 ## Selected Projects
 
@@ -36,7 +30,6 @@ Fine-tuned YOLOv8 on custom thermal imaging dataset achieving 89.6% mAP50 and 86
 ### AI-Optimized Energy Consumption Forecasting System
 Developed ML regression model on 1M+ consumption records achieving 0.038 kWh MAE (95% improvement) for real-time energy forecasting and grid optimization.
 
----
 
 ## Experience
 
@@ -46,14 +39,11 @@ Conducted analysis of bias mitigation strategies in Generative AI systems and de
 **Web Development Intern** @ Anugraha Systems (Jan 2023)  
 Developed end-to-end web applications using full stack technologies.
 
----
-
 ## Contact
 
 Email: cheppash2@gmail.com  
 LinkedIn: [www.linkedin.com/in/ashvath-cheppalli-0ab28a249]  
 Portfolio: [ashvathhh.github.io/Profile](https://ashvathhh.github.io/Profile/)
 
----
 
 Thanks for visiting — feel free to look through my work.
