@@ -47,4 +47,4 @@ LinkedIn: www.linkedin.com/in/ashvath-cheppalli-0ab28a249
 Portfolio: https://ashvathhh.github.io/Profile/
 
 
-Thanks for visiting — feel free to look through my work.
+Thanks for visiting. Feel free to look through my work.
