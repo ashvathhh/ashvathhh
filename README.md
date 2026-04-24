@@ -1,6 +1,6 @@
 # Hi, I'm Ashvath
 
-MS in Artificial Intelligence at Northeastern University. I build practical ML systems — model compression, computer vision, and real-time inference pipelines.
+MS in Artificial Intelligence at Northeastern University. I build practical ML systems: model compression, computer vision and real-time inference pipelines.
 
 ## Projects
 
@@ -8,10 +8,10 @@ MS in Artificial Intelligence at Northeastern University. I build practical ML s
 INT8 post-training quantization pipeline for DistilBERT with layer-wise sensitivity analysis across 20 transformer components. Achieved 2.19x speedup and 64% memory reduction on SST-2.
 
 ### Intelligent Human Detection for Emergency Fire Evacuation
-Fine-tuned YOLOv8 on 4,000+ thermal frames across 12 fire scenarios — 89.6% mAP50, 86.7% precision. Deployed via Flutter mobile app at 24 FPS.
+Fine-tuned YOLOv8 on 4,000+ thermal frames across 12 fire scenarios with 89.6% mAP50 and 86.7% precision. Deployed via Flutter mobile app at 24 FPS.
 
 ### AI-Optimized Energy Consumption Forecasting System
-XGBoost model trained on 1M+ records achieving 0.038 kWh MAE (95% improvement over baseline), served as a REST API at under 120ms latency.
+XGBoost model trained on 1M+ records achieving 0.038 kWh MAE (95% improvement over baseline) served as a REST API at under 120ms latency.
 
 ## Skills
 
@@ -32,8 +32,8 @@ Built full-stack web applications in React and MySQL. Shipped a real-time custom
 
 ## Education
 
-**MS, Artificial Intelligence** — Northeastern University *(2025–Present)* | GPA: 3.57  
-**BTech, AI & Machine Learning** — Rajalakshmi Engineering College *(2021–2025)*
+**MS, Artificial Intelligence** at Northeastern University *(2025–Present)* | GPA: 3.57  
+**BTech, AI & Machine Learning** at Rajalakshmi Engineering College *(2021–2025)*
 
 ## Contact
 
